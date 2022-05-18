@@ -16,3 +16,7 @@ During the time of COVID pandemic, many articles were published daily, and resea
 Another option is to upload the notebook in the Kaggle platform and save the databases in that reposittory.
 
 ## Some Outputs
+
+![alt text](images/task1.png "Task 1")
+
+![alt text](images/task8.png "Task 8")
